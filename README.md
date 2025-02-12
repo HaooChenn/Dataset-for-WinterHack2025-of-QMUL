@@ -46,7 +46,7 @@ dataset_root/
 
 ## 💾 Data Acquisition and Usage
 ### Download Information
-- Baidu Netdisk Link: https://pan.baidu.com/s/170FWCQNwUmeZeyUDa-BEFw
+- Baidu Netdisk Link: https://pan.baidu.com/s/170FWCQNwUmeZeyUDa-BEFw?pwd=hack
 - Extraction Code: hack
 - File Size: Approximately 83.8 GB (compressed)
 - Format: ZIP archive
@@ -79,7 +79,7 @@ cd C:\path\to\download
 ```
 
 ## 👤 Data Collection Team
-- Primary Collector: Amanda ([GitHub](https://github.com/vvamanda))
+- Primary Collector: Yuwei Gui ([GitHub](https://github.com/vvamanda))
 
 ## 🎯 Application Scenarios
 1. Robotic Visual Navigation
@@ -97,7 +97,7 @@ YOLO format annotation files (.txt) are organized as follows:
 If you use this dataset in your research, please cite it as follows:
 ```
 @dataset{RobotVisionDataset2025,
-  author       = {Amanda},
+  author       = {Yuwei Gui},
   title        = {Path Tracking Robot Vision Dataset},
   year         = {2025},
   institution  = {Queen Mary University of London},
