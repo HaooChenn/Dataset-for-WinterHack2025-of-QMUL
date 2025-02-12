@@ -107,7 +107,6 @@ If you use this dataset in your research, please cite it as follows:
 
 ## 🔄 Change Log
 - 2025.02: Initial release
-- [Reserved for future updates]
 
 ## 🤝 Contribution Guidelines
 Community contributions to enhance dataset quality are welcome:
