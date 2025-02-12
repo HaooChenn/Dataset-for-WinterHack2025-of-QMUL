@@ -46,9 +46,8 @@ dataset_root/
 
 ## 💾 Data Acquisition and Usage
 ### Download Information
-- Baidu Netdisk Link: https://pan.baidu.com/s/170FWCQNwUmeZeyUDa-BEFw?pwd=hack
-- Extraction Code: hack
-- File Size: Approximately 83.8 GB (compressed)
+- Catbox Link: https://files.catbox.moe/3ol9ve.zip
+- File Size: Approximately 88.1 MB (compressed)
 - Format: ZIP archive
 
 ### Extraction Instructions
