@@ -46,8 +46,8 @@ dataset_root/
 
 ## 💾 Data Acquisition and Usage
 ### Download Information
-- Catbox Link: https://files.catbox.moe/3ol9ve.zip
-- File Size: Approximately 88.1 MB (compressed)
+- Catbox Link: https://files.catbox.moe/q7fwme.zip
+- File Size: Approximately 100 MB (compressed)
 - Format: ZIP archive
 
 ### Extraction Instructions
