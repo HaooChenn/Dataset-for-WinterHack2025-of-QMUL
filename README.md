@@ -5,7 +5,7 @@ This dataset is specifically designed for autonomous path tracking robots' visua
 
 ## 🎯 Dataset Details
 ### Bullseye Dataset
-- Volume: 328 high-quality annotated samples
+- Volume: 587 high-quality annotated samples
 - Target class: Single class `bullseye`
 - Application: Precise localization and target center recognition
 - Characteristics: Contains bullseye images at various scales and angles
